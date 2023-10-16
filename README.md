@@ -1,5 +1,4 @@
 ## About Me 
----
 
 - 👋 Hello, I'm @CorruptedHexagon!
 - 🐍 I love Python! It's my favorite programming language, and I enjoy using it for various tasks, from websites to data analysis and automating stuff.
@@ -8,7 +7,6 @@
 - 📫 Feel free to connect with me, say hi, or work on something exciting together. Let's have fun with code! 🚀
 
 ## Contact Me 📬
----
 
 - 📧 Email: [hexalink.business@gmail.com](mailto:hexalink.business+github-user@gmail.com)
 - 💭 Discord: hexalinks
